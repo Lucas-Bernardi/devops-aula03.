@@ -1,1 +1,3 @@
-# devops-aula03.
+Angelina Jolie
+Juliana Paes
+Isis Valverde
